@@ -1,5 +1,8 @@
 # ExchangedChangesProblem
 
+How ot use:
+  After download the files, put them in the same folder and just execute "./tp3" in the CLI.
+
 In this Ocaml exercise, we will exemplify the differences between dynamic programming and greedy algorihms.
 To do so, let us look at the classic change problem in several monetary systems, some of them esoteric.
 
